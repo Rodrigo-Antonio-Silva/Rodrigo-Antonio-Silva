@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Support Image](https://raw.githubusercontent.com/Rodrigo-Antonio-Silva/Rodrigo-Antonio-Silva/main/Avatar.jpg)
+
+
 - 🔭 I’m currently working on Data Analysis.
 - 🌱 I’m currently learning Machine Learning with Python.
 
