@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Rodrigo-Antonio-Silva/Rodrigo-Antonio-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Data analysis.
@@ -39,5 +38,3 @@ Além disso, possuo projetos de **análise de dados** e **machine learning** uti
 
 - [Kaggle](https://www.kaggle.com/rodrigosilva33333)
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-antonio-silva)
-
--->
