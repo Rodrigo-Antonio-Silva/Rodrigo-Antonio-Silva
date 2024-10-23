@@ -1,36 +1,34 @@
 ## Hi there 👋
 
-**Rodrigo-Antonio-Silva/Rodrigo-Antonio-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on Data analysis.
-- 🌱 I’m currently learning machine learning with Python
+- 🔭 I’m currently working on Data Analysis.
+- 🌱 I’m currently learning Machine Learning with Python.
 
 # Rodrigo Antônio da Silva
 
-**Nasc:** 1983  
+**Born:** 1983  
 **E-mail:** rodrigo2013.rs33@gmail.com  
-**País:** Brasil  
-**Localização:** Petrópolis, Rio de Janeiro
+**Country:** Brazil  
+**Location:** Petrópolis, Rio de Janeiro
 
 ---
 
-## Resumo Profissional
+## Professional Summary
 
-Atualmente, atuo na **Controladoria** na gerência de Consolidação Contábil, onde realizo atividades como:
+I currently work in **Controllership** within the Accounting Consolidation Management, where I perform activities such as:
 
-- Auxílio nas rotinas de consolidação contábil
-- Criação de relatórios gerenciais
-- Desenvolvimento de dashboards para acompanhamento de KPIs
-- Automação de processos com ferramentas low-code, como **Automation Anywhere** e **Power Automate**
+- Supporting accounting consolidation routines
+- Creating management reports
+- Developing dashboards for KPI tracking
+- Automating processes with low-code tools, such as **Automation Anywhere** and **Power Automate**
 
-Além disso, possuo projetos de **análise de dados** e **machine learning** utilizando **Python**, disponíveis no meu GitHub e Kaggle.
+In addition, I have projects in **data analysis** and **machine learning** using **Python**, available on my GitHub and Kaggle.
 
-## Habilidades
+## Skills
 
-- **Linguagens:** Python, HTML, SQL
-- **Ferramentas:** Power BI, KNIME, Automation Anywhere
-- **Ciência de Dados:** Pandas, Numpy, Matplotlib, Sklearn
-- **Sistemas:** SAP ECC (MM), HFM (Hyperion Financial Management), CDM (Cognos Disclosure Management)
+- **Languages:** Python, HTML, SQL
+- **Tools:** Power BI, KNIME, Automation Anywhere
+- **Data Science:** Pandas, Numpy, Matplotlib, Sklearn
+- **Systems:** SAP ECC (MM), HFM (Hyperion Financial Management), CDM (Cognos Disclosure Management)
 
 ---
 
