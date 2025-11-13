@@ -22,6 +22,7 @@ I currently work in **Controllership** within the Accounting Consolidation Manag
 - Supporting accounting consolidation routines
 - Creating management reports
 - Developing dashboards for KPI tracking
+- Data enginnering creating ETL and pipelines
 - Automating processes with low-code tools, such as **Automation Anywhere** and **Power Automate**
 
 In addition, I have projects in **data analysis** and **machine learning** using **Python**, available on my GitHub and Kaggle.
@@ -32,6 +33,13 @@ In addition, I have projects in **data analysis** and **machine learning** using
 - **Tools:** Power BI, KNIME, Automation Anywhere
 - **Data Science:** Pandas, Numpy, Matplotlib, Sklearn
 - **Systems:** SAP ECC (MM), HFM (Hyperion Financial Management), CDM (Cognos Disclosure Management)
+- **Clould:** Azure
+
+## Microsoft Certifications
+
+- **DP-900: Microsoft Azure Data Fundamentals
+- **AZ-900: Microsoft Azure Fundamentals
+
 
 ---
 
